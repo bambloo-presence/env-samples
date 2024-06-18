@@ -1,0 +1,10 @@
+{
+	"name": "com.elisoli.chrome.echo",
+	"description": "A simple extension to test Chrome NativeMessaging API",
+	"path": "/home/panda/Dev/bambloo/env/chrome-host/host/main",
+	"type": "stdio",
+	"allowed_origins": [
+		"chrome-extension://eblcbdccocegjbjcekhlifbpimokmdog/",
+		"chrome-extension://dlkmphnbimkonlocejhnkkldknphpela/"
+	]
+}

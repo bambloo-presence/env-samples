@@ -1,0 +1,7 @@
+{
+  "name": "com.elisoli.test.multiple_instances",
+  "description": "My Application",
+  "path": "/home/panda/Dev/bamblue/env/multi-presence/host/main",
+  "type": "stdio",
+  "allowed_origins": ["chrome-extension://gjkbenbkkodebbgjfojnmkmgldmnofip/"]
+}

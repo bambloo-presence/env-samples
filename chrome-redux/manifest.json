@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Bambloo redux example",
+  "version": "1.0.0",
+  "action": { "default_popup": "index.html" },
+	"permissions": ["storage"],
+	"background": {
+		"service_worker": "src/background.js",
+		"type": "module"
+	}
+}
